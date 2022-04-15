@@ -44,5 +44,7 @@ class HappyPlaceDetailActivity : AppCompatActivity(){
             startActivity(intent)
         }
 
+        println("hello")
     }
+
 }

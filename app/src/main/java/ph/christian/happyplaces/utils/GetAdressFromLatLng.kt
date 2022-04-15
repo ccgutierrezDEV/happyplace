@@ -43,4 +43,6 @@ class GetAddressFromLatLng(context: Context,
         fun onAddressFound(address :String?)
         fun onError()
     }
+
+
 }

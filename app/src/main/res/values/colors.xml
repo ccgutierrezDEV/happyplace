@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary_text_color">#212121</color>
+    <color name="secondary_text_color">#9AA2AF</color>
+    <color name="button_background_color">#63ACE5</color>
+
+    <color name="circular_image_border_color">#757575</color>
+    <color name="item_happy_place_description_text_color">#606060</color>
+    <color name="detail_screen_description_text_color">#757575</color>
+    
+    <color name="darkBlue">#033B4C</color>
+    <color name="mediumBlue">#1584A1</color>
+    <color name ="paleBlue">#8CCFEC</color>
+
+    <color name = "lightCyan">#D7F9F1</color>
+    <color name = "morningBlue">#7AA095</color>
+    <color name="darkMossGreen">#40531B</color>
+    <color name = "mayGreen">#618B4A</color>
+    <color name="sage">#AFBC88</color>
+
+    <color name="turquoiseBlue">#69FFF1</color>
+    <color name="emerald">#63D471</color>
+    <color name="forestGreen">#63A46C</color>
+    <color name="darkOliveGreen">#6A7152</color>
+    <color name="pineTree">#233329</color>
+
+    <color name="claret">#6E0D25</color>
+    <color name="lemonYellowCrayola">#FFFFB3</color>
+    <color name="earthYellow">#DCAB6B</color>
+    <color name="sepia">#774E24</color>
+    <color name="vanDykeBrown">#6A381F</color>
+
+    <color name="paleSilver">#DBCDC6</color>
+    <color name="champagnePink">#EAD7D1</color>
+    <color name="kobi">#DD99BB</color>
+    <color name="twilightLavender">#7B506F</color>
+    <color name="darkPurple">#1F1A38</color>
+
+    <color name="teaGreen">#C4F1BE</color>
+    <color name="cambridgeBlue">#A2C3A4</color>
+    <color name="mossBlue">#869D96</color>
+    <color name="spaceCadet">#201E50</color>
+    <color name="minionYellow">#F2DC5D</color>
+
+    <color name="sandyBrown">#F2A359</color>
+    <color name="rawSienna">#DB9065</color>
+    <color name="rubyRed">#A4031F</color>
+    <color name="russianViolet">#240B36</color>
+
+    <color name="skyBlueCrayola">#1BE7FF</color>
+    <color name="lightGreen">#6EEB83</color>
+    <color name="yellow">#E4FF1A</color>
+    <color name="ponkan">#FFB800</color>
+    <color name="orange">#FF5714</color>
+
+    <color name="ebony">#515A47</color>
+    <color name="ecru">#D7BE82</color>
+    <color name="russet">#7A4419</color>
+    <color name="poop">#755C1B</color>
+    <color name="darkRed">#400406</color>
+
+
+
+
+</resources>
